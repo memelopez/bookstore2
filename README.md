@@ -27,7 +27,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="./public/pi1.png" alt="logo" width="140"  height="auto" />
+  <img src="./public/b1.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Book Store</b></h3>
